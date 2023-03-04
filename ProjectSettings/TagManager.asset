@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LightSwitch
+  - LightSwitchModel
+  - Light
+  - LightMeshIlluminator
+  - T_bathroom
+  - R_Door
+  - Door
+  - L_Door
+  - T_room
+  - holdable
+  - floor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ignoreRoomLight
+  - Water
+  - UI
+  - Wall
+  - WakHodObj
+  - WakInteract
+  - WakInteractSec
+  - ignoreRoomLight2
+  - ignoreRoomLight3
+  - ignoreRoomLight4
+  - smoke
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
